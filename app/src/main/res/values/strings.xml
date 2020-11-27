@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PraktikumMobile8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Tampilan 1</string>
+    <string name="tab_text_2">Tampilan 2</string>
+    <string name="tab_text_3">Tampilan 3</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="gmbrfirstfragment">gmbrfirstfragment</string>
+    <string name="user_display_name">User Display Name</string>
+    <string name="selamat_datang">Selamat datang</string>
+    <string name="gmbrsecondfragment">gmbrsecondfragment</string>
+    <string name="pakailah_masker_saat_keluar_rumah">Pakailah Masker Saat Keluar Rumah</string>
+    <string name="by_sudewantoro_nur_muhammad">by Sudewantoro Nur Muhammad</string>
+    <string name="gmbrcorona">gmbrcorona</string>
+</resources>
